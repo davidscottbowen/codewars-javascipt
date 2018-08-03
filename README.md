@@ -1,1 +1,2 @@
-"# codewars-javascipt" 
+Codewars - JavaScript
+
